@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this lab you'll once again build a neural network, but this time you will be using Keras to do a lot of the heavy lifting.
+In this lab you'll once again build a neural network, but this time you will be using Keras to do a lot of the heavy lift.
 
 
 ## Objectives
